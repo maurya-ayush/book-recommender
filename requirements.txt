@@ -4,9 +4,9 @@ matplotlib
 seaborn
 python-dotenv
 langchain-community
-langchain-openai
 langchain-chroma
 transformers
 gradio
 notebook
 ipywidgets
+sentence-transformers
